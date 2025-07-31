@@ -180,7 +180,7 @@ const PartTouchPhotoRoomProdScr = ({navigation, route}) => {
     } else if (
       mainDocumentURL === 'https://winspirit.best/' ||
       url.includes('https://malinacasino') ||
-      //url.includes('https://ninlay') ||
+      url.includes('https://ninlay') ||
       url.includes('https://dazardbet')
     ) {
       // Умова для ввімкнення/вимкнення onOpenWindow
